@@ -1,0 +1,40 @@
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: "Karma", sans-serif;
+  color: salmon;
+  margin: auto;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  margin-bottom: 0;
+  background-color: #fff;
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron-heading {
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+.grids {
+  padding: 20px 16px !important;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.pagination {
+  padding-top: 1rem;
+
+}
+
+/*# sourceMappingURL=variables.css.map */

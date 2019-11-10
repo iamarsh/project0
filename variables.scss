@@ -1,0 +1,14 @@
+$divpadding : 20px 16px!important;
+$textcolor: rgb(211, 81, 67);
+$font : "Karma", sans-serif;
+
+body,h1,h2,h3,h4,h5,h6,a,p {
+    font-family: $font;
+    color: $textcolor;
+    margin: auto;
+}
+
+.grids {
+    padding: $divpadding ;
+    background-color: #f7f7f7;
+}
