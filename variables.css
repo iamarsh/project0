@@ -32,9 +32,19 @@ body, h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 
-.pagination {
+.pagination, section {
   padding-top: 1rem;
+}
 
+#tablepad{
+  background-color: #f7f7f7;
+  margin: auto;
+  width: 80% !important; 
+}
+
+table {
+  font-size: 18px;
+  font-weight: bold;
 }
 
 /*# sourceMappingURL=variables.css.map */
